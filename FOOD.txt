@@ -1,0 +1,11 @@
+
+
+ 1.Burger-(120 tk)	
+
+ 2.Pizza-(480 tk)	
+
+ 3.Noodles-(70 tk)	
+
+ 4.Shawarma-(130 tk)	
+
+ 5.Fried Chicken-(250-tk)	

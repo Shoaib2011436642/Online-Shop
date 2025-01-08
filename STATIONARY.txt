@@ -1,0 +1,11 @@
+
+
+ 1.Pencil-(10 tk)	
+
+ 2.Eraser-(20 tk)	
+
+ 3.Sharpner-(10 tk)	
+
+ 4.Stapler-(50 tk)	
+
+ 5.Pen-(5 tk)
